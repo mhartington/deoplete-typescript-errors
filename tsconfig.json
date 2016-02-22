@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "noEmitOnError": false,
+    "rootDir": ".",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "sourceRoot": "",
+    "inlineSourceMap": false,
+    "inlineSources": false
+  },
+  "files": [
+    "index.ts",
+    "typings/main.d.ts"
+  ],
+  "compileOnSave": false
+}
+
