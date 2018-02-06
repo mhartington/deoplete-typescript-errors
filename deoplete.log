@@ -1,0 +1,876 @@
+2018-02-05 19:57:34,828 INFO     [63570] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:57:34,830 INFO     [63570] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:57:34,832 DEBUG    [63570] (deoplete.core) on_event: Init
+2018-02-05 19:57:35,096 INFO     [63603] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:57:35,097 INFO     [63603] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:57:35,098 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,098 DEBUG    [63603] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,100 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,100 DEBUG    [63603] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,100 DEBUG    [63603] (deoplete.child) Loaded Source: file (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/file.py)
+2018-02-05 19:57:35,101 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,101 INFO     [63637] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:57:35,101 DEBUG    [63603] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,104 INFO     [63637] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:57:35,109 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,112 DEBUG    [63603] (deoplete.child) Loaded Source: typescript (/Users/mhartington/GitHub/nvim-typescript/rplugin/python3/deoplete/sources/typescript.py)
+2018-02-05 19:57:35,109 DEBUG    [63637] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,112 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,113 DEBUG    [63603] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,113 DEBUG    [63603] (deoplete.child) Loaded Source: javacomplete2 (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/javacomplete2.py)
+2018-02-05 19:57:35,114 DEBUG    [63637] (deoplete.child) Loaded Source: omni (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/omni.py)
+2018-02-05 19:57:35,114 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,114 DEBUG    [63603] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,115 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,115 DEBUG    [63637] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,115 DEBUG    [63637] (deoplete.child) Loaded Source: buffer (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/buffer.py)
+2018-02-05 19:57:35,116 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,116 DEBUG    [63637] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,124 DEBUG    [63637] (deoplete.child) Loaded Source: go (/Users/mhartington/.config/nvim/repos/github.com/zchee/deoplete-go/rplugin/python3/deoplete/sources/deoplete_go.py)
+2018-02-05 19:57:35,124 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,124 DEBUG    [63637] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,125 DEBUG    [63637] (deoplete.child) Loaded Source: neosnippet (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/neosnippet.py)
+2018-02-05 19:57:35,126 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,126 DEBUG    [63637] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,138 INFO     [63639] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:57:35,141 INFO     [63638] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:57:35,142 INFO     [63639] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:57:35,142 INFO     [63638] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:57:35,144 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,144 DEBUG    [63639] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,145 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,146 DEBUG    [63639] (deoplete.child) Loaded Source: around (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/around.py)
+2018-02-05 19:57:35,145 DEBUG    [63638] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,146 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,146 DEBUG    [63639] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,147 DEBUG    [63638] (deoplete.child) Loaded Source: member (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/member.py)
+2018-02-05 19:57:35,148 DEBUG    [63639] (deoplete.child) Loaded Source: tag (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/tag.py)
+2018-02-05 19:57:35,148 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,148 DEBUG    [63638] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,148 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,148 DEBUG    [63639] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,150 DEBUG    [63638] (deoplete.child) Loaded Source: dictionary (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/dictionary.py)
+2018-02-05 19:57:35,150 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,150 DEBUG    [63638] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,151 DEBUG    [63638] (deoplete.child) Loaded Source: racer (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/racer.py)
+2018-02-05 19:57:35,151 DEBUG    [63639] (deoplete.child) Loaded Source: look (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/look.py)
+2018-02-05 19:57:35,151 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,152 DEBUG    [63638] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,152 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,152 DEBUG    [63638] (deoplete.child) Loaded Source: vim (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/vim.py)
+2018-02-05 19:57:35,152 DEBUG    [63639] (deoplete.child) main_loop: add_source
+2018-02-05 19:57:35,153 DEBUG    [63639] (deoplete.child) Loaded Source: file/include (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/file_include.py)
+2018-02-05 19:57:35,162 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,162 DEBUG    [63639] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:57:35,163 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,163 DEBUG    [63638] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:57:35,164 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,164 DEBUG    [63639] (deoplete.child) main_loop: set_custom
+2018-02-05 19:57:35,164 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,164 DEBUG    [63638] (deoplete.child) main_loop: set_custom
+2018-02-05 19:57:35,164 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,164 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,165 DEBUG    [63637] (deoplete.child) Loaded Source: jedi (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/deoplete_jedi.py)
+2018-02-05 19:57:35,165 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,165 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,166 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,166 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,166 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:57:35,167 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,167 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,167 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,167 DEBUG    [63603] (deoplete.child) Loaded Source: clang2 (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/deoplete_clang2.py)
+2018-02-05 19:57:35,167 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,167 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:57:35,168 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,168 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,168 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:57:35,169 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,169 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,169 DEBUG    [63639] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:57:35,170 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,170 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,170 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:57:35,171 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,171 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,171 DEBUG    [63639] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:57:35,172 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,172 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,173 DEBUG    [63639] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:57:35,173 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:57:35,173 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,173 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,173 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,174 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,174 DEBUG    [63638] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:57:35,175 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,175 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,175 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:57:35,175 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,175 DEBUG    [63637] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:57:35,175 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:57:35,176 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,176 DEBUG    [63637] (deoplete.child) main_loop: set_custom
+2018-02-05 19:57:35,176 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,176 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,176 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,176 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,176 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,177 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,177 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,177 DEBUG    [63603] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:57:35,177 DEBUG    [63638] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:57:35,177 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,177 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,177 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,177 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:57:35,178 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,178 DEBUG    [63603] (deoplete.child) main_loop: set_custom
+2018-02-05 19:57:35,178 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,178 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:57:35,178 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,178 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,178 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,178 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,178 DEBUG    [63638] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:57:35,179 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,179 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,179 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,179 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,179 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,179 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:57:35,179 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,180 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:57:35,180 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,180 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:57:35,180 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,180 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,180 DEBUG    [63637] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:57:35,180 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,180 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,180 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,181 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,181 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:57:35,181 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:57:35,181 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,181 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,181 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:57:35,181 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,181 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,182 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,182 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,182 DEBUG    [63638] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:57:35,182 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,179 DEBUG    [63639] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:57:35,183 DEBUG    [63637] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:57:35,183 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,183 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,183 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,183 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,183 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,183 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:57:35,183 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,183 DEBUG    [63639] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:57:35,184 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,184 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,184 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,184 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,184 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,184 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,184 DEBUG    [63603] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:57:35,184 DEBUG    [63638] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:57:35,185 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,185 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,185 DEBUG    [63637] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:57:35,185 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,185 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,185 DEBUG    [63603] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:57:35,185 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,186 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,186 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,186 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,186 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:57:35,186 DEBUG    [63639] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:57:35,186 DEBUG    [63638] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:57:35,186 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:57:35,187 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,187 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,187 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,187 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,187 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,187 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,187 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,187 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:57:35,188 DEBUG    [63638] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:57:35,187 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,188 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:57:35,188 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,188 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,188 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,188 DEBUG    [63639] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:57:35,188 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,188 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,189 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,189 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,189 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:57:35,189 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,189 DEBUG    [63637] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:57:35,189 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,189 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,189 DEBUG    [63638] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,189 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:57:35,189 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,190 DEBUG    [63638] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:57:35,190 DEBUG    [63637] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:57:35,190 DEBUG    [63603] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:57:35,190 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,190 DEBUG    [63639] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,191 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,191 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,191 DEBUG    [63639] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:57:35,191 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,191 DEBUG    [63637] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:57:35,191 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,192 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,192 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,192 DEBUG    [63637] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:57:35,193 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,193 DEBUG    [63603] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:57:35,193 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,194 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,194 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:57:35,194 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,194 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,194 DEBUG    [63637] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,195 DEBUG    [63637] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:57:35,199 DEBUG    [63603] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:57:35,199 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,200 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,200 DEBUG    [63603] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:57:35,201 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,201 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,201 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,201 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,201 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:57:35,201 DEBUG    [63639] (deoplete.child) on_init Source: tag
+2018-02-05 19:57:35,202 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:57:35,202 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,201 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,202 DEBUG    [63603] (deoplete.child) main_loop: add_filter
+2018-02-05 19:57:35,202 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,202 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:57:35,202 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:57:35,203 DEBUG    [63603] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:57:35,204 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,204 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,204 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:57:35,205 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:57:35,205 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:57:35,208 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:57:35,209 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,210 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,210 DEBUG    [63603] (deoplete.child) on_init Source: file
+2018-02-05 19:57:35,210 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:57:35,956 DEBUG    [63570] (deoplete.core) on_event: BufRead
+2018-02-05 19:57:35,968 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,969 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,969 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:57:35,969 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,970 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,968 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,970 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:57:35,970 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:57:35,970 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,971 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:57:35,971 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:35,972 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:35,972 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:57:35,972 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:57:36,142 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:57:36,142 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:57:51,779 DEBUG    [63570] (deoplete.core) on_event: BufRead
+2018-02-05 19:57:51,789 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:51,789 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:51,789 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:57:51,790 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:51,790 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:51,790 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:57:51,791 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:51,791 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:51,791 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:57:51,791 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:57:51,791 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:51,791 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:51,791 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:57:51,959 DEBUG    [63603] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:57:51,961 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:57:51,961 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:57:51,971 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:57:53,609 DEBUG    [63570] (deoplete.core) completion_begin: 
+2018-02-05 19:57:53,620 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:53,620 DEBUG    [63603] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:53,636 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:53,637 DEBUG    [63637] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:53,650 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:53,650 DEBUG    [63638] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:53,665 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:53,665 DEBUG    [63639] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:53,685 DEBUG    [63570] (deoplete.core) completion_end: 
+2018-02-05 19:57:54,283 DEBUG    [63570] (deoplete.core) completion_begin: l
+2018-02-05 19:57:54,291 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,291 DEBUG    [63603] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,307 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,307 DEBUG    [63637] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,319 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,319 DEBUG    [63638] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,337 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,337 DEBUG    [63639] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,353 DEBUG    [63570] (deoplete.core) completion_end: l
+2018-02-05 19:57:54,408 DEBUG    [63570] (deoplete.core) completion_begin: l
+2018-02-05 19:57:54,613 DEBUG    [63570] (deoplete.core) completion_begin: lo
+2018-02-05 19:57:54,620 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,620 DEBUG    [63603] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,637 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,638 DEBUG    [63637] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,657 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,657 DEBUG    [63638] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,673 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,673 DEBUG    [63639] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:54,688 DEBUG    [63570] (deoplete.core) on_event: DirChanged
+2018-02-05 19:57:54,702 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,702 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,702 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,704 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,704 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:57:54,705 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:57:54,705 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:57:54,706 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,707 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,707 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:57:54,707 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:57:54,716 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,717 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,717 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:57:54,718 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:57:54,730 DEBUG    [63603] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:57:54,733 DEBUG    [63570] (deoplete.core) completion_end: lo
+2018-02-05 19:57:54,739 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,739 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,739 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:57:54,740 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,740 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,741 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:57:54,758 DEBUG    [63603] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:57:54,758 DEBUG    [63570] (deoplete.core) completion_begin: lo
+2018-02-05 19:57:54,763 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:57:54,764 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:57:54,773 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,774 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,774 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:57:54,777 DEBUG    [63570] (deoplete.core) completion_end: lo
+2018-02-05 19:57:54,784 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:57:54,785 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:57:54,809 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:54,809 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:57:54,809 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:57:54,810 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:57:58,184 DEBUG    [63570] (deoplete.core) completion_begin: import * as lodash from 'lodash';
+2018-02-05 19:57:58,189 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,190 DEBUG    [63603] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,208 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,208 DEBUG    [63637] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,224 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,224 DEBUG    [63638] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,242 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,243 DEBUG    [63639] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,259 DEBUG    [63570] (deoplete.core) completion_end: import * as lodash from 'lodash';
+2018-02-05 19:57:58,322 DEBUG    [63570] (deoplete.core) completion_begin: 
+2018-02-05 19:57:58,327 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,328 DEBUG    [63603] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,345 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,345 DEBUG    [63637] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,363 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,363 DEBUG    [63638] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,382 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:57:58,382 DEBUG    [63639] (deoplete.child) main_loop: merge_results
+2018-02-05 19:57:58,400 DEBUG    [63570] (deoplete.core) completion_end: 
+2018-02-05 19:58:01,346 DEBUG    [63570] (deoplete.core) on_event: BufWritePost
+2018-02-05 19:58:01,356 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:01,356 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:01,356 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:01,361 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:01,361 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:01,361 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:01,361 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:01,362 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:01,362 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:01,362 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:01,366 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:01,366 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:01,367 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:01,434 DEBUG    [63603] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:58:01,447 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:01,448 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:01,448 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:02,578 DEBUG    [63570] (deoplete.core) on_event: BufWritePost
+2018-02-05 19:58:02,591 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,591 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,592 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:02,592 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,592 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,592 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:02,594 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,594 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,595 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:02,595 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:02,595 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,595 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,595 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:02,638 DEBUG    [63603] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:58:02,647 DEBUG    [63570] (deoplete.core) on_event: DirChanged
+2018-02-05 19:58:02,656 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,656 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,657 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:02,657 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,658 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,658 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:02,658 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:02,659 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:02,661 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:02,661 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:02,667 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,667 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,667 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:02,667 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:02,669 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,669 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,669 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:02,670 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,670 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,670 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:02,673 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:02,673 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:02,678 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,678 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,678 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:02,678 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,679 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,679 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:02,680 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:02,682 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:02,683 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:02,691 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:02,691 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:02,691 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:02,691 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:03,489 DEBUG    [63570] (deoplete.core) on_event: BufRead
+2018-02-05 19:58:03,499 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,500 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,500 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,500 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,500 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:03,500 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:03,500 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,500 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,500 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:03,500 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:03,500 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,500 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,501 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:03,681 DEBUG    [63570] (deoplete.core) on_event: DirChanged
+2018-02-05 19:58:03,692 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,693 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,693 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:03,694 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,694 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,694 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:03,694 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:03,703 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,703 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,703 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:03,704 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:03,706 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:03,708 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:03,708 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:03,716 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,716 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,717 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:03,717 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,717 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,718 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:03,729 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:03,729 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:03,730 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,730 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,730 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:03,731 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:03,740 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,740 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,740 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:03,751 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:03,751 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:03,751 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:03,751 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:03,751 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:03,752 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:10,546 DEBUG    [63570] (deoplete.core) on_event: BufWritePost
+2018-02-05 19:58:10,557 DEBUG    [63637] (deoplete.child) main_loop: begin
+2018-02-05 19:58:10,557 DEBUG    [63637] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:10,558 DEBUG    [63637] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:10,558 DEBUG    [63603] (deoplete.child) main_loop: begin
+2018-02-05 19:58:10,558 DEBUG    [63603] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:10,558 DEBUG    [63603] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:10,559 DEBUG    [63638] (deoplete.child) main_loop: begin
+2018-02-05 19:58:10,559 DEBUG    [63638] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:10,559 DEBUG    [63638] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:10,559 DEBUG    [63638] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:10,559 DEBUG    [63639] (deoplete.child) main_loop: begin
+2018-02-05 19:58:10,559 DEBUG    [63639] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:10,560 DEBUG    [63639] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:10,663 DEBUG    [63570] (deoplete.core) on_event: VimLeavePre
+2018-02-05 19:58:10,664 DEBUG    [63637] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:10,665 DEBUG    [63639] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:10,665 DEBUG    [63639] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:28,609 INFO     [65563] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:58:28,616 INFO     [65563] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:58:28,622 DEBUG    [65563] (deoplete.core) on_event: Init
+2018-02-05 19:58:29,051 INFO     [65694] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:58:29,052 INFO     [65693] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:58:29,064 INFO     [65694] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:58:29,064 INFO     [65693] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:58:29,065 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,065 DEBUG    [65694] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,067 DEBUG    [65694] (deoplete.child) Loaded Source: omni (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/omni.py)
+2018-02-05 19:58:29,067 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,068 DEBUG    [65694] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,069 DEBUG    [65694] (deoplete.child) Loaded Source: buffer (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/buffer.py)
+2018-02-05 19:58:29,069 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,069 DEBUG    [65694] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,074 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,075 DEBUG    [65693] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,077 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,077 DEBUG    [65693] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,078 DEBUG    [65693] (deoplete.child) Loaded Source: file (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/file.py)
+2018-02-05 19:58:29,078 INFO     [65695] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:58:29,078 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,079 DEBUG    [65693] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,087 INFO     [65695] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:58:29,091 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,091 DEBUG    [65695] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,093 DEBUG    [65695] (deoplete.child) Loaded Source: member (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/member.py)
+2018-02-05 19:58:29,093 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,093 DEBUG    [65695] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,095 DEBUG    [65695] (deoplete.child) Loaded Source: dictionary (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/dictionary.py)
+2018-02-05 19:58:29,095 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,095 DEBUG    [65694] (deoplete.child) Loaded Source: go (/Users/mhartington/.config/nvim/repos/github.com/zchee/deoplete-go/rplugin/python3/deoplete/sources/deoplete_go.py)
+2018-02-05 19:58:29,095 DEBUG    [65695] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,096 DEBUG    [65695] (deoplete.child) Loaded Source: racer (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/racer.py)
+2018-02-05 19:58:29,096 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,097 DEBUG    [65695] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,097 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,097 DEBUG    [65695] (deoplete.child) Loaded Source: vim (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/vim.py)
+2018-02-05 19:58:29,097 INFO     [65696] (deoplete.logging) --- Deoplete Log Start ---
+2018-02-05 19:58:29,097 DEBUG    [65694] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,098 DEBUG    [65694] (deoplete.child) Loaded Source: neosnippet (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/neosnippet.py)
+2018-02-05 19:58:29,099 INFO     [65696] (deoplete.logging) NVIM v0.2.2, Python 3.6.4, neovim client 0.2.1
+2018-02-05 19:58:29,100 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,100 DEBUG    [65694] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,104 DEBUG    [65693] (deoplete.child) Loaded Source: typescript (/Users/mhartington/GitHub/nvim-typescript/rplugin/python3/deoplete/sources/typescript.py)
+2018-02-05 19:58:29,104 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,104 DEBUG    [65696] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,104 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,104 DEBUG    [65693] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,105 DEBUG    [65693] (deoplete.child) Loaded Source: javacomplete2 (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/javacomplete2.py)
+2018-02-05 19:58:29,105 DEBUG    [65696] (deoplete.child) Loaded Source: around (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/around.py)
+2018-02-05 19:58:29,106 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,106 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,106 DEBUG    [65696] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,106 DEBUG    [65693] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,107 DEBUG    [65696] (deoplete.child) Loaded Source: tag (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/source/tag.py)
+2018-02-05 19:58:29,108 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,108 DEBUG    [65696] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,111 DEBUG    [65696] (deoplete.child) Loaded Source: look (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/look.py)
+2018-02-05 19:58:29,112 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,112 DEBUG    [65696] (deoplete.child) main_loop: add_source
+2018-02-05 19:58:29,113 DEBUG    [65696] (deoplete.child) Loaded Source: file/include (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/file_include.py)
+2018-02-05 19:58:29,124 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,124 DEBUG    [65695] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:58:29,125 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,125 DEBUG    [65695] (deoplete.child) main_loop: set_custom
+2018-02-05 19:58:29,126 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,126 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,127 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,127 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,127 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:58:29,128 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,129 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,129 DEBUG    [65696] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:58:29,131 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,131 DEBUG    [65696] (deoplete.child) main_loop: set_custom
+2018-02-05 19:58:29,132 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,128 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,134 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:58:29,134 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,134 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,135 DEBUG    [65695] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:58:29,135 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,136 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,136 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:58:29,137 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,137 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,137 DEBUG    [65695] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:58:29,138 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,138 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,138 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,138 DEBUG    [65695] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:58:29,139 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,139 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,139 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,139 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,139 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:58:29,139 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:58:29,140 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,140 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,141 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,141 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,141 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:58:29,141 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:58:29,142 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,142 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,142 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,142 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,142 DEBUG    [65695] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:58:29,143 DEBUG    [65696] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:58:29,143 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,143 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,143 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,143 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,143 DEBUG    [65695] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:58:29,144 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:58:29,144 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,144 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,145 DEBUG    [65696] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:58:29,146 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,146 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,148 DEBUG    [65696] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:58:29,149 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,149 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,152 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:58:29,153 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,153 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,154 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:58:29,155 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,155 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,155 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,155 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,155 DEBUG    [65696] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:58:29,156 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,156 DEBUG    [65695] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:58:29,156 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,157 DEBUG    [65696] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:58:29,157 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,157 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,158 DEBUG    [65696] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:58:29,158 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,158 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,159 DEBUG    [65696] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:58:29,160 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,160 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,160 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:58:29,161 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,161 DEBUG    [65694] (deoplete.child) Loaded Source: jedi (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/deoplete_jedi.py)
+2018-02-05 19:58:29,161 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,161 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,162 DEBUG    [65695] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:58:29,163 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,163 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,163 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:58:29,164 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,164 DEBUG    [65695] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,164 DEBUG    [65695] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:58:29,171 DEBUG    [65696] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,172 DEBUG    [65696] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:58:29,182 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,182 DEBUG    [65695] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:29,182 DEBUG    [65695] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:29,182 DEBUG    [65695] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:29,187 DEBUG    [65693] (deoplete.child) Loaded Source: clang2 (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/sources/deoplete_clang2.py)
+2018-02-05 19:58:29,188 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,188 DEBUG    [65696] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:29,188 DEBUG    [65696] (deoplete.child) on_init Source: tag
+2018-02-05 19:58:29,188 DEBUG    [65696] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:29,190 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,191 DEBUG    [65694] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:58:29,192 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,192 DEBUG    [65694] (deoplete.child) main_loop: set_custom
+2018-02-05 19:58:29,192 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,192 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,193 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,194 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,194 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:58:29,195 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,195 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,195 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:58:29,196 DEBUG    [65696] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:29,196 DEBUG    [65696] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:29,196 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,196 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,197 DEBUG    [65694] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:58:29,197 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,197 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,198 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:58:29,199 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,199 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,199 DEBUG    [65694] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:58:29,200 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,200 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,201 DEBUG    [65694] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:58:29,201 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,201 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,202 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:58:29,203 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,203 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,203 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,203 DEBUG    [65693] (deoplete.child) main_loop: set_source_attributes
+2018-02-05 19:58:29,203 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:58:29,204 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,204 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,204 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,204 DEBUG    [65693] (deoplete.child) main_loop: set_custom
+2018-02-05 19:58:29,205 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,205 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,205 DEBUG    [65694] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:58:29,205 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,206 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,206 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,206 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,206 DEBUG    [65694] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:58:29,207 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,207 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,207 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_auto_delimiter (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_delimiter.py)
+2018-02-05 19:58:29,208 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,208 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,208 DEBUG    [65694] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:58:29,209 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_remove_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_paren.py)
+2018-02-05 19:58:29,209 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,210 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,210 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,210 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,210 DEBUG    [65693] (deoplete.child) Loaded Filter: matcher_head (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_head.py)
+2018-02-05 19:58:29,211 DEBUG    [65694] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:58:29,211 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,211 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,212 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_auto_paren (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_auto_paren.py)
+2018-02-05 19:58:29,212 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,212 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,213 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,213 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,213 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:58:29,213 DEBUG    [65693] (deoplete.child) Loaded Filter: matcher_cpsm (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_cpsm.py)
+2018-02-05 19:58:29,213 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,214 DEBUG    [65694] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,214 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,214 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,214 DEBUG    [65694] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:58:29,220 DEBUG    [65693] (deoplete.child) Loaded Filter: matcher_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_fuzzy.py)
+2018-02-05 19:58:29,220 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,221 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,222 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_remove_overlap (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_remove_overlap.py)
+2018-02-05 19:58:29,222 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,222 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,223 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_truncate_menu (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_menu.py)
+2018-02-05 19:58:29,224 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,224 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,224 DEBUG    [65693] (deoplete.child) Loaded Filter: matcher_length (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_length.py)
+2018-02-05 19:58:29,225 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,225 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,226 DEBUG    [65693] (deoplete.child) Loaded Filter: sorter_rank (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_rank.py)
+2018-02-05 19:58:29,229 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,229 DEBUG    [65694] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:29,229 DEBUG    [65694] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:29,226 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,232 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,233 DEBUG    [65693] (deoplete.child) Loaded Filter: sorter_word (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/sorter_word.py)
+2018-02-05 19:58:29,233 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,234 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,234 DEBUG    [65693] (deoplete.child) Loaded Filter: matcher_full_fuzzy (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/matcher_full_fuzzy.py)
+2018-02-05 19:58:29,235 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,235 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,236 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_truncate_abbr (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_abbr.py)
+2018-02-05 19:58:29,236 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,237 DEBUG    [65693] (deoplete.child) main_loop: add_filter
+2018-02-05 19:58:29,237 DEBUG    [65693] (deoplete.child) Loaded Filter: converter_truncate_kind (/Users/mhartington/.config/nvim/.cache/init.vim/.dein/rplugin/python3/deoplete/filter/converter_truncate_kind.py)
+2018-02-05 19:58:29,241 DEBUG    [65694] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:29,261 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,261 DEBUG    [65693] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:29,261 DEBUG    [65693] (deoplete.child) on_init Source: file
+2018-02-05 19:58:29,262 DEBUG    [65693] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:29,483 DEBUG    [65693] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:58:29,538 DEBUG    [65563] (deoplete.core) completion_begin: 
+2018-02-05 19:58:29,548 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,548 DEBUG    [65693] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,565 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,565 DEBUG    [65694] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,582 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,583 DEBUG    [65695] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,597 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,597 DEBUG    [65696] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,612 DEBUG    [65563] (deoplete.core) completion_end: 
+2018-02-05 19:58:29,866 DEBUG    [65563] (deoplete.core) completion_begin: d
+2018-02-05 19:58:29,873 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,873 DEBUG    [65693] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,889 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,890 DEBUG    [65694] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,907 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,907 DEBUG    [65695] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,922 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:29,922 DEBUG    [65696] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:29,938 DEBUG    [65563] (deoplete.core) completion_end: d
+2018-02-05 19:58:30,000 DEBUG    [65563] (deoplete.core) completion_begin: do
+2018-02-05 19:58:30,010 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,011 DEBUG    [65693] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:30,027 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,027 DEBUG    [65694] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:30,045 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,045 DEBUG    [65695] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:30,061 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,061 DEBUG    [65696] (deoplete.child) main_loop: merge_results
+2018-02-05 19:58:30,072 DEBUG    [65563] (deoplete.core) on_event: DirChanged
+2018-02-05 19:58:30,082 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,083 DEBUG    [65694] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,083 DEBUG    [65694] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:30,083 DEBUG    [65694] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:30,083 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,084 DEBUG    [65695] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,084 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,084 DEBUG    [65695] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:30,084 DEBUG    [65695] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:30,084 DEBUG    [65693] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,084 DEBUG    [65693] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:30,095 DEBUG    [65695] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,095 DEBUG    [65695] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,095 DEBUG    [65695] (deoplete.child) on_event: Source: member
+2018-02-05 19:58:30,095 DEBUG    [65695] (deoplete.child) on_event: Source: dictionary
+2018-02-05 19:58:30,112 DEBUG    [65693] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:58:30,117 DEBUG    [65563] (deoplete.core) completion_end: do
+2018-02-05 19:58:30,122 DEBUG    [65693] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,123 DEBUG    [65693] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,123 DEBUG    [65693] (deoplete.child) on_event: Source: file
+2018-02-05 19:58:30,125 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,125 DEBUG    [65696] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,125 DEBUG    [65696] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:30,127 DEBUG    [65693] (deoplete.child) on_event: Source: typescript
+2018-02-05 19:58:30,139 DEBUG    [65563] (deoplete.core) completion_begin: do
+2018-02-05 19:58:30,139 DEBUG    [65696] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:30,139 DEBUG    [65696] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:30,148 DEBUG    [65696] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,148 DEBUG    [65563] (deoplete.core) completion_end: do
+2018-02-05 19:58:30,149 DEBUG    [65696] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,149 DEBUG    [65696] (deoplete.child) on_event: Source: tag
+2018-02-05 19:58:30,159 DEBUG    [65696] (deoplete.child) on_event: Source: look
+2018-02-05 19:58:30,160 DEBUG    [65696] (deoplete.child) on_event: Source: file/include
+2018-02-05 19:58:30,204 DEBUG    [65694] (deoplete.child) main_loop: begin
+2018-02-05 19:58:30,204 DEBUG    [65694] (deoplete.child) main_loop: on_event
+2018-02-05 19:58:30,204 DEBUG    [65694] (deoplete.child) on_event: Source: buffer
+2018-02-05 19:58:30,205 DEBUG    [65694] (deoplete.child) on_event: Source: neosnippet
+2018-02-05 19:58:31,872 DEBUG    [65563] (deoplete.core) on_event: VimLeavePre

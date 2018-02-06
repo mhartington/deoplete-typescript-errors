@@ -9,6 +9,8 @@
   "author": "Mike Hartington <mikehartington@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.5.0"
+    "@types/lodash": "^4.14.101",
+    "lodash": "^4.5.0",
+    "typescript": "^2.7.1"
   }
 }

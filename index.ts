@@ -1,5 +1,5 @@
-/// <reference path="typings/main.d.ts" />
 import * as lodash from 'lodash';
+
 
 // start to write lodash.sum
 // completion menu will popup
